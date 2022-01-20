@@ -9,7 +9,7 @@ model/
 scores.pkl
 noun_scores.pkl
 OpinosisDataset1.0/
-kagle.json
+kaggle.json
 etriaikey.txt
 
 # Byte-compiled / optimized / DLL files
